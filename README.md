@@ -1,4 +1,4 @@
-# Tareas simples
+#Agenda de tareas
 Lista de tareas en HTML/CSS/JavaScript
 
 Juan Herrera
